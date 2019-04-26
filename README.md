@@ -2,7 +2,7 @@
 
 ## Face recognition
 
-Add all the images of people to be identified in the `know_identities/` folder.
+Add all the images of people to be identified in the `known_identities/` folder.
 
 ## Running the code
 
